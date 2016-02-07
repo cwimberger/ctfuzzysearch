@@ -5,7 +5,6 @@
 #import "CTDFA.h"
 #import "CTNFA.h"
 #import "CTIntTuple.h"
-#import "CTFuzzyMatch.h"
 #import "CTFuzzyMatch-Private.h"
 
 @implementation CTFuzzyIndex

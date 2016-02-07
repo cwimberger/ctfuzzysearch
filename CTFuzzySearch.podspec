@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name           = 'CTFuzzySearch'
-  s.version        = '1.0.0'
+  s.version        = '1.0.1'
   s.summary        = "CTFuzzySearch is a lightweight framework for fast and fuzzy string searching."
   s.homepage       = "https://github.com/cwimberger/ctfuzzysearch"
   s.author         = { 'Christoph Wimberger' => 'christoph@wimberger.org' }
